@@ -11,7 +11,9 @@ public class lab2 {
 		lab2 ob=new lab2();
 		System.out.print(ob.sum(20,3));
         int a=10;
-        System.out.println(a);
+        int b=20;
+        System.out.println(a+b);
+        
 	}
 
 }
