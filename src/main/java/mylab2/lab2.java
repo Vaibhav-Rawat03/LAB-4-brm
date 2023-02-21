@@ -10,7 +10,8 @@ public class lab2 {
 		// TODO Auto-generated method stub
 		lab2 ob=new lab2();
 		System.out.print(ob.sum(20,3));
-
+        int a=10;
+        System.out.println(a);
 	}
 
 }
